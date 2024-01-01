@@ -1,3 +1,3 @@
 # c-projects
 Projects made by using C - programming language<br>
-Author- Sandesh Jamkatel
+Author- Sandesh Jamkatel -HSM
